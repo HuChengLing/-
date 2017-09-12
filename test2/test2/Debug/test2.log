@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\asus\source\repos\test2\test2\源.cpp(244): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\test2\test2\源.cpp(267): warning C4101: “dd”: 未引用的局部变量
+c:\users\asus\source\repos\test2\test2\源.cpp(51): warning C4715: “getSignal”: 不是所有的控件路径都返回值
+  test2.vcxproj -> c:\users\asus\source\repos\test2\Debug\test2.exe
+  test2.vcxproj -> c:\users\asus\source\repos\test2\Debug\test2.pdb (Partial PDB)
